@@ -1,1 +1,1 @@
-Systemd unit files for running automated backups with borg, and copying them to google drive with rclone
+This repository is archived. The files here have been merged into [Sciencentistguy/systemd-units](https://github.com/Sciencentistguy/systemd-units).
